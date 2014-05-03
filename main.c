@@ -161,7 +161,6 @@ int main(int argc, char **argv)
   // Test the strings and get the result.
   while (IsEqual(&ctm, ary, str) <= Normal) {
 
-    // Now inject a trailing '1' > 11 bytes and overflow the array into the next address space used for 'isEqual'
     printf("Password:  ");
 
     // Boundary align is 4 bytes on x32 & 8 bytes each on x64.  ary[10+1] + oflw(1) is good enough.
