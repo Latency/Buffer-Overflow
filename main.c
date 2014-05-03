@@ -7,7 +7,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <assert.h>
-#include <stddef.h>
 
 char buf[3][32];         // 3 secret addresses.
 

@@ -26,10 +26,7 @@
 *.suo
 *.tlog
 *.ilk
-Buffer Overflow/Howard.cpp
 *.cod
 *.idb
 *.log
-Buffer Overflow/Debug/vc120.pdb
 *.vcxproj.user
-*/vc120.pdb
