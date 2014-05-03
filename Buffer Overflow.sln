@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30324.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Buffer Overflow", "Buffer Overflow\ConsoleApplication8.vcxproj", "{1D62AA07-F80D-40CA-B681-00A1AFF6111C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Buffer Overflow", "Buffer Overflow.vcxproj", "{1D62AA07-F80D-40CA-B681-00A1AFF6111C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
