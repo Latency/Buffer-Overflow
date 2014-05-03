@@ -81,8 +81,8 @@ FUNC(baz)
 
 FUNC(qut)
 {
-  int len  = sizeof(buf) / sizeof(*buf);
   int len2 = sizeof(*buf);
+  int len = sizeof(buf) / len2;
   char *ptr = (char *) &buf;
   for (int x = 0; x < len; x++, ptr += len2) {
     printf("---------- Secret Address #%d ----------\n", x + 1);
