@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Buffer Overflow", "Buffer Overflow\ConsoleApplication8.vcxproj", "{1D62AA07-F80D-40CA-B681-00A1AFF6111C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D62AA07-F80D-40CA-B681-00A1AFF6111C}.Debug|ARM.ActiveCfg = Debug|Win32
+		{1D62AA07-F80D-40CA-B681-00A1AFF6111C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1D62AA07-F80D-40CA-B681-00A1AFF6111C}.Debug|Win32.Build.0 = Debug|Win32
+		{1D62AA07-F80D-40CA-B681-00A1AFF6111C}.Debug|x64.ActiveCfg = Debug|Win32
+		{1D62AA07-F80D-40CA-B681-00A1AFF6111C}.Debug|x64.Build.0 = Debug|Win32
+		{1D62AA07-F80D-40CA-B681-00A1AFF6111C}.Release|ARM.ActiveCfg = Release|Win32
+		{1D62AA07-F80D-40CA-B681-00A1AFF6111C}.Release|Win32.ActiveCfg = Release|Win32
+		{1D62AA07-F80D-40CA-B681-00A1AFF6111C}.Release|Win32.Build.0 = Release|Win32
+		{1D62AA07-F80D-40CA-B681-00A1AFF6111C}.Release|x64.ActiveCfg = Release|x64
+		{1D62AA07-F80D-40CA-B681-00A1AFF6111C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
