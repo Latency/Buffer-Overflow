@@ -9,8 +9,6 @@
 #include <assert.h>
 #include <stddef.h>
 
-extern int ParseLine(char *str, int size, int padding, int offset);
-
 char buf[3][32];         // 3 secret addresses.
 
 #define PRINT(a,x,l) printf("Value of `%s' - 0x%p\n\t`%"#x"' - %s: Length[%d]\n\n", #a, &a, a, ((char *)#x=="s" ? "string" :  (char *)#x=="p" ? "address" : "digit"), l )
