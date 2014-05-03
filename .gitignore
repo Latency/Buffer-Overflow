@@ -31,3 +31,5 @@ Buffer Overflow/Howard.cpp
 *.idb
 *.log
 Buffer Overflow/Debug/vc120.pdb
+*.vcxproj.user
+*/vc120.pdb

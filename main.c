@@ -141,7 +141,6 @@ int main(int argc, char **argv)
 
   // Do you want to try it yourself?
   strncpy(ary, argv[1], sizeof(ary) - 1);   // Copy original string.
-  ary[sizeof(ary) - 1] = '\0';
 
   //
   // BAM!!! Notice what I did?
